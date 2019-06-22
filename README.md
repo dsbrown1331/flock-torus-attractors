@@ -6,15 +6,7 @@ The code in `swarm_simulation.m` is the base model used in the papers [Supportin
 
 The code in `StakeholderSwitching.m` is for exploring how to change the collective behavior of a swarm by influencing only a small subset of the members of the swarm. This code was used to generate the results for the stakeholder experiments in the paper [Human-swarm interactions based on managing attractors](https://www.cs.utexas.edu/~dsbrown/pubs/Brown_HRI2014.pdf).
 
-This code was used to generate the results in the following papers. If you find this code useful please cite one of the following:
-
-```
-@inproceedings{kerman2012supporting,
-  title={Supporting human interaction with robust robot swarms},
-  author={Kerman, Sean and Brown, Daniel and Goodrich, Michael A},
-  booktitle={2012 5th International Symposium on Resilient Control Systems}
-}
-```
+If you find this code useful please consider citing the following:
 
 ```
 @inproceedings{brown2014human,
